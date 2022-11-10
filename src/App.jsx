@@ -948,8 +948,6 @@ However it is up to you to choose how to export things: for example, a module mi
 
               })}
               <hr />
-              <hr />
-              <hr />
             </div>
           )
         })}

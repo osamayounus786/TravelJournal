@@ -1,7 +1,11 @@
+
 function Header(){
     return(
-
-<h1>Hello header</h1>
+        <header>
+            <div className="header">
+                <p className="header-title">MyTravelJournal</p>
+            </div>
+        </header>
     )
 }
 export default Header;
